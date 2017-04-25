@@ -22,7 +22,7 @@ Technologies
 
 Application Separation
 	
-	- Patient App: this is mobile application which will be downloaded by patients and use it to request an ambulance.
+	- Ambulance App: this is mobile application which will be downloaded by patients and use it to request an ambulance.
 
 	- Control Room App: will be a web based application for the Control Room Operators where they will be recieving request from patients and monitor they progress.
 
