@@ -22756,7 +22756,7 @@
 	  return _react2.default.createElement(
 	    'p',
 	    null,
-	    ' Disclaimer Agreement'
+	    ' Disclaimer Agreement Before Use'
 	  );
 	};
 	
