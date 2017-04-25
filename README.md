@@ -2,6 +2,7 @@
 This app allows patients to request an Ambulance. It routs for a nearby Ambulance and send a patient notification to it and also to the Ambulance Regional Station.
 
 Design 
+
 	- In this application Justinmind is the design tool used. 
 	- The design has been reviewed by local ambulance operators in the OR Tambo region in Umtata.
 
