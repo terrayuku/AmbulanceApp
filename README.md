@@ -19,3 +19,11 @@ Technologies
 		- NodeJs + Express Server: server side processing
 		- Firebase: as a cloud based database provider
 		- Google API's: for location services
+
+Application Separation
+	
+	- Patient App: this is mobile application which will be downloaded by patients and use it to request an ambulance.
+
+	- Control Room App: will be a web based application for the Control Room Operators where they will be recieving request from patients and monitor they progress.
+
+	- Ambulance Driver App: is a mobile based application designed for the ambulance drivers to be able to recieve patient request when they are closeby to the patient and also recieve notifications from the Control Room.
